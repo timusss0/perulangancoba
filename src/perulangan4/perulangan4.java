@@ -9,6 +9,7 @@ package perulangan4;
  * @author musti
  */
 public class perulangan4 {
+    //ini cara menghitung luas belah ketupat
    public static void main (String[] args){
        double diagonal1, diagonal2,luas;
        diagonal1 = 12;
